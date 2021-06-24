@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # npm works for yarn
+    directory: "/"
+    schedule:
+      interval: "daily"
