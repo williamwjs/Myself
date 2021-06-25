@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build && next export"
+    "build": "next build && next export",
+    "clean": "rm -rf .next/ node_modules/",
+    "dev": "next dev"
   },
   "dependencies": {
     "@types/node": "^15.12.4",
