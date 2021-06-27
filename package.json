@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build && next export",
-    "clean": "rm -rf .next/ node_modules/",
+    "clean": "rm -rf .next/ node_modules/ out/",
     "dev": "next dev"
   },
   "dependencies": {
