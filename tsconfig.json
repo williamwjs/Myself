@@ -27,6 +27,6 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/Icons.js"
+    "src/components/Icons.js"
   ]
 }
